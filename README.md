@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ayu-sshhhhh
 - 👀 I’m interested in AI ML
-- 🌱 I’m currently learning Python|Java
+- 🌱 Exploring Deep Learning, Neural Nets & the world
 - 💞️ I’m looking to collaborate on projects suitable for me 
 - 📫 How to reach me https://www.instagram.com/ayu__sshhhhh?igsh=MW5yaXJycGMybjc2eQ==
 - 😄 Pronouns: He/Him
