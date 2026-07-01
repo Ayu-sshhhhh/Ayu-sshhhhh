@@ -1,6 +1,6 @@
 Hi, I’m @Ayu-sshhhhh
 
-Exploring Deep Learning : Image Search, NLP, OpenCV
+Exploring Deep Learning : Image Search, NLP, Computer Vision, OpenCV
 
 You can reach me on my LinkedIn profile: https://www.linkedin.com/in/ayush-mishra-3b6b952bb
 
